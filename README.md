@@ -1,2 +1,2 @@
 # asynchronousDigitalNeuralCircuits
-attempt for making neurons and synapse for making a SNN in verilog using asynchronous digital logic
+Making a SNN in verilog using asynchronous digital logic
